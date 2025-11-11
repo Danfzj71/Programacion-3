@@ -1,2 +1,2 @@
-# crud-node1
-Projecto de  estudio con node y sql 
+# crud-node Plataforma de Ecomerse
+#Projecto de  estudio con nodeJS
